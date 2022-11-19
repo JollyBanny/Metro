@@ -1,0 +1,4 @@
+[0:12:45 28.02.2022] [INFO] Bot Metro#7251 loaded
+[0:12:45 28.02.2022] [INFO] help loaded
+[0:12:45 28.02.2022] [INFO] ready loaded
+[0:12:45 28.02.2022] [INFO] voiceStateUpdate loaded

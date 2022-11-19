@@ -1,0 +1,40 @@
+[15:46:23 21.02.2022] [INFO] Bot Metro#7251 loaded
+[15:46:23 21.02.2022] [INFO] ready loaded
+[15:46:23 21.02.2022] [INFO] voiceStateUpdate loaded
+[15:46:23 21.02.2022] [INFO] help loaded
+[15:50:29 21.02.2022] [INFO] ready loaded
+[15:50:29 21.02.2022] [INFO] voiceStateUpdate loaded
+[15:50:29 21.02.2022] [INFO] help loaded
+[15:50:29 21.02.2022] [INFO] Bot Metro#7251 loaded
+[15:52:21 21.02.2022] [INFO] voiceStateUpdate reloaded
+[15:56:24 21.02.2022] [INFO] ready loaded
+[15:56:24 21.02.2022] [INFO] voiceStateUpdate loaded
+[15:56:24 21.02.2022] [INFO] help loaded
+[15:56:24 21.02.2022] [INFO] Bot Metro#7251 loaded
+[15:59:08 21.02.2022] [INFO] help loaded
+[15:59:08 21.02.2022] [INFO] ready loaded
+[15:59:08 21.02.2022] [INFO] voiceStateUpdate loaded
+[15:59:08 21.02.2022] [INFO] Bot Metro#7251 loaded
+[16:01:52 21.02.2022] [INFO] voiceStateUpdate reloaded
+[16:02:37 21.02.2022] [INFO] ready loaded
+[16:02:37 21.02.2022] [INFO] voiceStateUpdate loaded
+[16:02:37 21.02.2022] [INFO] help loaded
+[16:02:37 21.02.2022] [INFO] Bot Metro#7251 loaded
+[16:04:35 21.02.2022] [INFO] ready loaded
+[16:04:35 21.02.2022] [INFO] voiceStateUpdate loaded
+[16:04:35 21.02.2022] [INFO] help loaded
+[16:04:35 21.02.2022] [INFO] Bot Metro#7251 loaded
+[16:06:50 21.02.2022] [INFO] ready loaded
+[16:06:50 21.02.2022] [INFO] help loaded
+[16:06:50 21.02.2022] [INFO] voiceStateUpdate loaded
+[16:06:50 21.02.2022] [INFO] Bot Metro#7251 loaded
+[16:09:47 21.02.2022] [INFO] help loaded
+[16:09:47 21.02.2022] [INFO] ready loaded
+[16:09:47 21.02.2022] [INFO] voiceStateUpdate loaded
+[16:09:47 21.02.2022] [INFO] Bot Metro#7251 loaded
+[16:10:31 21.02.2022] [INFO] voiceStateUpdate reloaded
+[16:10:32 21.02.2022] [INFO] voiceStateUpdate reloaded
+[16:11:29 21.02.2022] [INFO] help loaded
+[16:11:29 21.02.2022] [INFO] voiceStateUpdate loaded
+[16:11:29 21.02.2022] [INFO] ready loaded
+[16:11:29 21.02.2022] [INFO] Bot Metro#7251 loaded
